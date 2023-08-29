@@ -1,0 +1,50 @@
+body {
+    background-image: url("sobre-background.jpg"); 
+}
+
+#container {
+    margin:auto;
+    width: 940px;
+}
+
+h1 {
+    height: 134px;;
+    width: 130px;
+    display: block;
+    text-indent: -9999px;
+    background-image:url("logo_GK.png");
+    margin: 40px;
+}
+
+h2, h3, h4 {
+    border-bottom: solid 2px rgb(9, 9, 17);
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
+figure {
+    text-align: center;
+    padding: 15px;
+    margin: 30px;
+}
+
+figcaption {
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 15 px;
+    margin-left: 45 px;
+    margin-right: 45 px;
+    line-height: 1.5em;
+}
+
+li {
+    margin-top: 15px;
+    margin-right: 60px;
+}
+
+a, strong {
+    color: green;
+    text-decoration: none;
+}
